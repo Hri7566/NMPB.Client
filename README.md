@@ -4,7 +4,7 @@ This is a decompilation of NMPB.Client.dll. It was decompiled with JetBrains dot
 
 This decompilation is currently not recompilable due to some compiler-specific fields that need names. If anyone is willing to help, by all means, submit a pull request or two.
 
-At this time, I do not want to add any other NMPB DLLs to this repository.
+At this time, I do not want to add any other NMPB DLLs to this repository. I plan to have these in separate repos. If it is necessary eventually, it will become a buildable monorepo.
 
 Eventually, I want to use NMPB without the GUI to create a headless server version.
 
